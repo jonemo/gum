@@ -16,7 +16,7 @@ GUMDB = {
     },
     b'012546619592': {
         'brand': 'Trident',
-        'colorname': 'gold',
+        'colorname': 'orange',
         'color': Color(0xFF, 0xA5, 0x00),
     },
     b'012546615563': {
@@ -24,4 +24,15 @@ GUMDB = {
         'colorname': 'pink',
         'color': Color(0xFF, 0xC0, 0xCB),
     },
+    b'012546672511': {
+        'brand': 'Trident',
+        'colorname': 'mint',
+        'color': Color(0x00, 0xFF, 0x7F),
+    },
+    b'012546673099': {
+        'brand': 'Trident',
+        'colorname': 'gold',
+        'color': Color(0xFF, 0xD7, 0x00),
+    },
+
 }
