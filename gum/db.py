@@ -1,6 +1,6 @@
 from collections import namedtuple
 
-Color = namedtuple('Point', ['r', 'g', 'b'])
+Color = namedtuple('Color', ['r', 'g', 'b'])
 
 
 GUMDB = {
